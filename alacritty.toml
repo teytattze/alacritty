@@ -1,5 +1,8 @@
 # https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd
 
+[colors]
+primary.background = "#030712"
+
 [font]
 normal.family = "MonoLisa Nerd Font"
 bold.family = "MonoLisa Nerd Font"
