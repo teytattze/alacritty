@@ -5,11 +5,12 @@ normal.family = "MonoLisa Nerd Font"
 bold.family = "MonoLisa Nerd Font"
 italic.family = "MonoLisa Nerd Font"
 bold_italic.family = "MonoLisa Nerd Font"
+size = 12
 
 [window]
 blur = true
 decorations = "Buttonless"
-opacity = 0.8
+opacity = 0.72
 padding = { x = 0, y = 8 }
 startup_mode = "Maximized"
 
