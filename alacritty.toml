@@ -10,7 +10,7 @@ size = 12
 [window]
 blur = true
 decorations = "Buttonless"
-opacity = 0.72
+opacity = 0.5
 padding = { x = 0, y = 8 }
 startup_mode = "Maximized"
 
