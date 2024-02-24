@@ -1,7 +1,7 @@
 # https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd
 
 [colors]
-primary.background = "#030712"
+primary.background = "#1E1D2D"
 
 [font]
 normal.family = "MonoLisa Nerd Font"
@@ -11,9 +11,7 @@ bold_italic.family = "MonoLisa Nerd Font"
 size = 12
 
 [window]
-blur = true
-decorations = "Buttonless"
-opacity = 0.88
+decorations = "Full"
 padding = { x = 0, y = 0 }
 startup_mode = "Maximized"
 
