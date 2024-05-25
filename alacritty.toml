@@ -14,10 +14,9 @@ bold_italic.family = "MonoLisa Nerd Font"
 size = 12
 
 [window]
-decorations = "Buttonless"
+decorations = "Transparent"
 dynamic_padding = true
 dynamic_title = true
 opacity = 0.9
-padding = { x = 0, y = 2 }
-startup_mode = "Maximized"
-
+padding = { x = 0, y = 22 }
+startup_mode = "Windowed"
